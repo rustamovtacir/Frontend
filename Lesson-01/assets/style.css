@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(255, 246, 240);
+    font-familyy;
+    margin: 0em;
+    padding: 1em;
+  }
+div{
+    border: 2px solid black;
+    width: 200px;
+    height: 250px;
+    display: block;
+    unicode-bidi: isolate;
+    background-color: rgba(255, 255, 255, 0.906);
+    color: red;
+    margin: 0em;
+    padding: 0rem;
+ 
+}
+
+
